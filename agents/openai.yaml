@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 216"
+  short_description: "Tiny Print Island in Vast Negative Space"
+  default_prompt: "Use $xxd-panel-216 to transform my photograph following the complete canonical source brief."
