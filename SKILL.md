@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-216
-description: "Create Panel 216 raster artwork: Tiny Print Island in Vast Negative Space. Use when the user invokes xxd-panel-216 or requests this specific visual language."
+description: "XXD Panel 216｜Tiny Print Island in Vast Negative Space: compresses a photo into one tiny single-colour image block — square, rectangular or freely cropped — that re-expresses the subject through high-contrast knock-outs, silhouette, cut-outs, halftone dots or a few geometric shapes with light risograph, screen-print and ink grain, placed off-centre on a warm grey-beige or ivory paper field that fills ninety percent or more of the area, coloured with one vivid hue taken from the photo plus a slightly deeper companion, and a few tiny narrow editorial words that may drift or misalign. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-216 or asks for tiny risograph or halftone vignettes with extreme negative space from a photo."
 ---
 
 # XXD Panel 216

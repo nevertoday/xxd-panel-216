@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 216"
-  short_description: "Tiny Print Island in Vast Negative Space"
-  default_prompt: "Use $xxd-panel-216 to transform my photograph following the complete canonical source brief."
+  short_description: "九成留白单色视觉岛：把照片压成大片纸面上一个极小的单色印刷图像块"
+  default_prompt: "Use $xxd-panel-216 to turn my photo into Tiny Print Island in Vast Negative Space artwork."

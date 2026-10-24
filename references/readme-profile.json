@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 216｜Tiny Print Island in Vast Negative Space: compresses a photo into one tiny single-colour image block — square, rectangular or freely cropped — that re-expresses the subject through high-contrast knock-outs, silhouette, cut-outs, halftone dots or a few geometric shapes with light risograph, screen-print and ink grain, placed off-centre on a warm grey-beige or ivory paper field that fills ninety percent or more of the area, coloured with one vivid hue taken from the photo plus a slightly deeper companion, and a few tiny narrow editorial words that may drift or misalign. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-216 or asks for tiny risograph or halftone vignettes with extreme negative space from a photo.",
+  "short_description": "九成留白单色视觉岛：把照片压成大片纸面上一个极小的单色印刷图像块",
+  "zh-CN": {
+    "name": "九成留白单色视觉岛",
+    "tagline": "把照片压成一大片暖色纸面上一个极小的单色印刷图像块。",
+    "look": "照片被压缩成一个极小的单色图像块：方形、矩形或自由裁切，里面用反白、剪影、镂空、网点或少量几何形重新表达主体，带一点 Risograph、丝网和油墨颗粒。图像块偏在一侧，九成以上的画面是暖灰米白或象牙色纸面。颜色只从照片里挑一个最有精神的，再加一点同色系稍深的辅助色，像几滴油墨落在纸上。文字极小、极少，用纤细的窄体编辑字散落在留白里，偶尔漂移或错位。",
+    "traits": ["极小视觉岛", "九成留白", "单色印刷块", "Risograph 网点", "窄体小字"],
+    "good": [
+      "主体剪影鲜明的照片：逆光的人、一只鸟、一棵孤树、一座灯塔",
+      "有一个突出颜色的画面：一把红伞、一辆黄色出租车、一扇蓝门",
+      "想做书籍封面、诗集内页或极简海报的照片"
+    ],
+    "poor": [
+      "需要看清细节或多个主体的照片：合影、菜单、商品图",
+      "颜色丰富、要多色并存的画面，最后只会留下一个主色",
+      "希望主体大、信息完整的海报或商业版式"
+    ]
+  },
+  "en": {
+    "name": "Tiny Print Island in Vast Negative Space",
+    "tagline": "Compresses a photo into one tiny single-colour print block on a wide field of warm paper.",
+    "look": "Your photo is compressed into one tiny single-colour image block, square, rectangular or freely cropped, where the subject is re-expressed through knocked-out white, silhouette, cut-outs, halftone dots or a few geometric shapes, with a light risograph, screen-print and ink grain. The block sits off to one side, and ninety percent or more of the page is warm grey-beige or ivory paper. Only one colour, the liveliest one in the photo, is used, with a slightly deeper shade of it as support, like a few drops of ink on paper. Text is tiny and sparse, set in a slim, narrow editorial typeface scattered across the white space, sometimes drifting or slightly out of line.",
+    "traits": ["Tiny visual island", "Ninety percent white space", "Single-colour print block", "Risograph halftone", "Narrow small type"],
+    "good": [
+      "Photos with a strong silhouette: a backlit person, a bird, a lone tree, a lighthouse",
+      "Scenes with one standout colour: a red umbrella, a yellow taxi, a blue door",
+      "Photos you want as a book cover, a poetry-book page or a minimalist poster"
+    ],
+    "poor": [
+      "Photos where detail or several subjects must stay readable: group shots, menus, product images",
+      "Colour-rich scenes that need many hues, since only one main colour survives",
+      "Posters or commercial layouts that need a large subject and complete information"
+    ]
+  },
+  "ja": {
+    "name": "広大な余白の極小印刷アイランド",
+    "tagline": "写真を、広い暖色の紙面に置いたごく小さな単色の印刷ブロックに圧縮します。",
+    "look": "写真をごく小さな単色の画像ブロックに圧縮します。正方形、長方形、または自由な切り抜きで、中では白抜き、シルエット、透かし、網点、わずかな幾何形で主役を表し、リソグラフやシルクスクリーン、インクの粒子が少し残ります。ブロックは片側に寄せて置かれ、画面の九割以上は暖かな灰色がかった生成りや象牙色の紙面です。色は写真でいちばん生き生きした一色だけを選び、同系の少し濃い色を添えて、紙に落ちたインクの数滴のように使います。文字はごく小さく少なく、細い幅狭の編集書体で余白に散り、ときどき漂ったりずれたりします。",
+    "traits": ["小さな視覚の島", "九割の余白", "単色の印刷ブロック", "リソグラフの網点", "幅狭の小さな文字"],
+    "good": [
+      "シルエットがはっきりした写真：逆光の人、鳥、一本の木、灯台",
+      "目立つ色が一つある場面：赤い傘、黄色いタクシー、青い扉",
+      "本の表紙、詩集のページ、ミニマルなポスターにしたい写真"
+    ],
+    "poor": [
+      "細部や複数の主役を読ませたい写真：集合写真、メニュー、商品写真",
+      "多くの色を並べたい色彩豊かな場面（主な色は一つしか残りません）",
+      "主役を大きく、情報をしっかり載せたいポスターや商業レイアウト"
+    ]
+  },
+  "ko": {
+    "name": "거대한 여백 속 극소 인쇄 섬",
+    "tagline": "사진을 넓은 따뜻한 종이 위의 아주 작은 단색 인쇄 블록으로 압축합니다.",
+    "look": "사진을 아주 작은 단색 이미지 블록으로 압축합니다. 정사각형, 직사각형, 혹은 자유롭게 잘린 모양이며, 안에서는 흰 반전, 실루엣, 뚫린 형태, 망점, 몇 개의 기하 도형으로 주인공을 다시 표현하고 리소그래프, 실크스크린, 잉크 입자가 살짝 남습니다. 블록은 한쪽으로 치우쳐 놓이고, 화면의 90% 이상은 따뜻한 회베이지나 상아색 종이입니다. 색은 사진에서 가장 생기 있는 한 가지만 골라 같은 계열의 조금 짙은 색을 곁들이며, 종이에 떨어진 잉크 몇 방울처럼 씁니다. 글자는 아주 작고 적으며, 가는 좁은 폭의 편집 서체로 여백에 흩어지고 가끔 떠다니거나 어긋납니다.",
+    "traits": ["작은 시각의 섬", "90% 여백", "단색 인쇄 블록", "리소그래프 망점", "좁은 폭의 작은 글자"],
+    "good": [
+      "실루엣이 뚜렷한 사진: 역광 속 사람, 새, 홀로 선 나무, 등대",
+      "눈에 띄는 색이 하나 있는 장면: 빨간 우산, 노란 택시, 파란 문",
+      "책 표지, 시집 속지, 미니멀 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "세부나 여러 주인공을 읽어야 하는 사진: 단체 사진, 메뉴판, 제품 사진",
+      "여러 색을 함께 살려야 하는 화려한 장면(주된 색은 하나만 남습니다)",
+      "주인공을 크게, 정보를 빠짐없이 담아야 하는 포스터나 상업 레이아웃"
+    ]
+  },
+  "ar": {
+    "name": "جزيرة مطبوعة صغيرة في فراغ واسع",
+    "tagline": "يضغط الصورة في كتلة مطبوعة صغيرة جداً بلون واحد على مساحة واسعة من ورق دافئ.",
+    "look": "تُضغط صورتك في كتلة صورية صغيرة جداً بلون واحد، مربعة أو مستطيلة أو مقصوصة بحرية، يُعاد فيها التعبير عن العنصر بالأبيض المفرّغ أو الظل أو الثقوب أو نقاط الطباعة النصفية أو بضعة أشكال هندسية، مع حبيبات خفيفة من الريزوغراف والطباعة الحريرية والحبر. توضع الكتلة إلى جانب، ويغطي ورق بيج رمادي دافئ أو عاجي تسعين في المئة أو أكثر من الصفحة. لا يُستخدم إلا لون واحد هو أكثر ألوان الصورة حيوية، مع درجة أغمق قليلاً منه، كأنها قطرات حبر على الورق. والنص صغير جداً وقليل، بخط تحريري رفيع ضيق يتناثر في الفراغ، ويبدو أحياناً منزاحاً أو غير مستقيم.",
+    "traits": ["جزيرة بصرية صغيرة", "فراغ بنسبة تسعين في المئة", "كتلة مطبوعة بلون واحد", "نقاط ريزوغراف", "كتابة صغيرة ضيقة"],
+    "good": [
+      "صور ذات ظل واضح: شخص في إضاءة خلفية، طائر، شجرة وحيدة، منارة",
+      "مشاهد فيها لون واحد بارز: مظلة حمراء، سيارة أجرة صفراء، باب أزرق",
+      "صور تريدها غلاف كتاب أو صفحة في ديوان شعر أو ملصقاً بسيطاً"
+    ],
+    "poor": [
+      "صور يجب أن تبقى تفاصيلها أو عناصرها المتعددة مقروءة: صور جماعية، قوائم طعام، صور منتجات",
+      "مشاهد غنية بالألوان تحتاج إلى ألوان كثيرة، إذ لا يبقى إلا لون رئيسي واحد",
+      "ملصقات أو تصاميم تجارية تحتاج إلى عنصر كبير ومعلومات كاملة"
+    ]
+  }
+}
